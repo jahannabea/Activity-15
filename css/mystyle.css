@@ -1,0 +1,298 @@
+*{  
+    margin:auto;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+
+}
+
+section{
+    width: 700px;
+    padding: 30px;
+    background-color: #4F77AA;
+    border: 5px #AAC9DD;
+    box-shadow: 5px 5px 8px aliceblue;
+}
+
+h1{
+    font-size: 50px;
+    padding-bottom: 6px;
+    color: black;
+    text-shadow: 2px 2px grey;
+}
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.ja{
+    width: 250px;
+    padding-bottom: 15px;
+    color: black;
+    font-size: 20px;
+}
+
+.ja input{
+    height: 40px;
+    width: 95%;
+    border-radius: 7px;
+    outline: none;
+    border: 2px solid black;
+    padding: 0 10px;
+    background-color: #D2E1E6;
+
+
+}
+
+.gen{
+    color: black;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.gender{
+    margin: 15px;
+    color: black;
+    font-size: 15px;
+}
+
+.Register input{ 
+    display: block;
+    width: 600px;
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    color: black;
+    background-color: #D2E1E6;
+}
+
+@media screen and (min-width:360px){
+    body{
+        display: flex;
+        height: 100vh;
+        justify-content: center;
+        align-items: center;
+        background-size: cover;
+    
+    }
+    
+    section{
+        width: 700px;
+        padding: 30px;
+        background-color: #4F77AA;
+        border: 5px #AAC9DD;
+        box-shadow: 5px 5px 8px alicebl
+    }
+    
+    h1{
+        font-size: 50px;
+        padding-bottom: 6px;
+        color: black;
+        text-shadow: 2px 2px grey;
+    }
+    .main{
+        display: flex;
+        flex-wrap: wrap;
+        padding: 20px;
+    }
+    
+    .ja{
+        width: 250px;
+        padding-bottom: 15px;
+        color: black;
+        font-size: 20px;
+    }
+    
+    .ja input{
+        height: 40px;
+        width: 95%;
+        border-radius: 7px;
+        outline: none;
+        border: 2px solid black;
+        padding: 0 10px;
+        background-color: #D2E1E6;
+    
+    
+    }
+    
+    .gen{
+        color: black;
+        font-size: 24px;
+        font-weight: 600;
+    }
+    
+    .gender{
+        margin: 15px;
+        color: black;
+        font-size: 15px;
+    }
+    
+    .Register input{ 
+        display: block;
+        width: 600px;
+        margin-top: 10px;
+        font-size: 20px;
+        padding: 10px;
+        border: none;
+        border-radius: 3px;
+        color: black;
+        background-color: #D2E1E6;
+    }
+}
+
+@media screen and (min-width:360px) and (max-width:600px){
+    body{
+        display: flex;
+        height: 100vh;
+        justify-content: center;
+        align-items: center;
+        background-size: cover;
+        
+    }
+        
+    section{
+        width: 700px;
+        padding: 30px;
+        background-color: #4F77AA;
+        border: 5px #AAC9DD;
+        box-shadow: 5px 5px 8px alicebl
+    }
+        
+    h1{
+        font-size: 50px;
+        padding-bottom: 6px;
+        color: black;
+        text-shadow: 2px 2px grey;
+    }
+    .main{
+        display: flex;
+        flex-wrap: wrap;
+        padding: 20px;
+    }
+        
+    .ja{
+        width: 250px;
+        padding-bottom: 15px;
+        color: black;
+        font-size: 20px;
+    }
+        
+    .ja input{
+        height: 40px;
+        width: 95%;
+        border-radius: 7px;
+        outline: none;
+        border: 2px solid black;
+        padding: 0 10px;
+        background-color: #D2E1E6;
+        
+        
+    }
+        
+    .gen{
+        color: black;
+        font-size: 24px;
+        font-weight: 600;
+    }
+        
+    .gender{
+        margin: 15px;
+        color: black;
+        font-size: 15px;
+    }
+        
+    .Register input{ 
+        display: block;
+        width: 600px;
+        margin-top: 10px;
+        font-size: 20px;
+        padding: 10px;
+        border: none;
+        border-radius: 3px;
+        color: black;
+        background-color: #D2E1E6;
+    }
+}
+@media screen and (min-width:360px){
+    body{
+        display: flex;
+        height: 100vh;
+        justify-content: center;
+        align-items: center;
+        background-size: cover;
+        
+    }
+        
+    section{
+        width: 700px;
+        padding: 30px;
+        background-color: #4F77AA;
+        border: 5px #AAC9DD;
+        box-shadow: 5px 5px 8px alicebl
+    }
+        
+    h1{
+        font-size: 50px;
+        padding-bottom: 6px;
+        color: black;
+        text-shadow: 2px 2px grey;
+    }
+    .main{
+        display: flex;
+        flex-wrap: wrap;
+        padding: 20px;
+    }
+        
+    .ja{
+        width: 250px;
+        padding-bottom: 15px;
+        color: black;
+        font-size: 20px;
+    }
+        
+    .ja input{
+        height: 40px;
+        width: 95%;
+        border-radius: 7px;
+        outline: none;
+        border: 2px solid black;
+        padding: 0 10px;
+        background-color: #D2E1E6;
+        
+        
+    }
+        
+    .gen{
+        color: black;
+        font-size: 24px;
+        font-weight: 600;
+    }
+        
+    .gender{
+        margin: 15px;
+        color: black;
+        font-size: 15px;
+    }
+        
+    .Register input{ 
+        display: block;
+        width: 600px;
+        margin-top: 10px;
+        font-size: 20px;
+        padding: 10px;
+        border: none;
+        border-radius: 3px;
+        color: black;
+        background-color: #D2E1E6;
+    }
+}
